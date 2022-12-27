@@ -10,13 +10,13 @@ Clone the repo.
 git clone https://github.com/stakeordie/stable-diffusion-installer
 ```
 
-Give execution permissions.
+Change access permissions.
 
 ```sh
 chmod +x install.sh
 ```
 
-Run script:
+Run script.
 
 ```sh
 ./install.sh
